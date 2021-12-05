@@ -1,5 +1,5 @@
 # shuttle-app
 
-Hello World 
+Hello World
 
-Create bus booking app "Shuttle" using React Native framework
+Create bus booking app "Shuttle" using React Native framework and Javascrpt as programming language
